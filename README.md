@@ -20,3 +20,15 @@ Please provide an exploratory analysis of this dataset. We would usually treat t
 each piece of analysis we produce. We expect part of this exploration to be a basis for the next section. For section 1, you are free to
 use whichever approach/approaches you feel most comfortable with or find most suitable. We do ask, however, that what you
 provide is reproducible on our end.
+
+Section 2
+
+Predictive Model
+
+Finally, we would like you to create a (Python code based, reproducible) model that can predict the number of years'
+experience a respondent has had programming.
+
+We would like to see a model that works best on this prediction task, with a clear representation of the model selection and
+performance testing that you have applied.
+
+Please provide a clear explanation of your choices and results in the walk through.
